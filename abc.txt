@@ -8,4 +8,4 @@ abc
 abc
 abc
 
-commit message paragraph
+commit message paragraph def
